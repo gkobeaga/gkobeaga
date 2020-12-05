@@ -1,8 +1,12 @@
 <div align="center">
+  
+**Hi! I am [Gorka Kobeaga](https://gorka.kobeaga.eus)**
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gkobeaga&count_private=true&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkobeaga&theme=buefy&layout=compact)
+I am a PhD canditate at the Basque Center for Applied Mathematics (BCAM), working on algorithms to solve large-sized Orienteering Problems.
 
+  <!--![Github stats](https://github-readme-stats.vercel.app/api?username=gkobeaga&count_private=true&show_icons=true&theme=buefy)-->
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkobeaga&theme=buefy&layout=compact)-->
 </div>
 
 
