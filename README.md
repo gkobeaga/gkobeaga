@@ -3,7 +3,7 @@
 
 I am a PhD canditate at the Basque Center for Applied Mathematics (BCAM), working on algorithms to solve large-sized Orienteering Problems.
 
-<a id="pubkey" href="https://raw.githubusercontent.com/gkobeaga/gkobeaga/main/pub.asc">CA23 07A9 1306 5995 F2CD  3B66 28BB 6F58 2687 4E31</a>
+<a download="gorka-kobeaga.asc" href="https://raw.githubusercontent.com/gkobeaga/gkobeaga/main/pub.asc">CA23 07A9 1306 5995 F2CD  3B66 28BB 6F58 2687 4E31</a>
   <!--![Github stats](https://github-readme-stats.vercel.app/api?username=gkobeaga&count_private=true&show_icons=true&theme=buefy)-->
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkobeaga&theme=buefy&layout=compact)-->
