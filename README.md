@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="animation.gif" alt="animated" width="53%" />
+  <img src="animation.gif" alt="animated" width="52%" />
 </p>
 
 
